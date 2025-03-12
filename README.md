@@ -1,0 +1,27 @@
+NHL Player Performance Prediction
+
+-Project Overview
+This project develops a machine learning-based projection system that predicts how a hockey player will perform in their first three NHL seasons based on their pre-NHL statistics. The model processes historical player data, scrapes additional statistics from HockeyDB, and applies Random Forest Regression to generate performance forecasts.
+
+-Why This Project Matters?
+Unlike the NFL or NBA, where players primarily come from the NCAA, NHL players come from various leagues worldwide (AHL, KHL, SHL, OHL, NCAA, etc.), making performance comparisons difficult. Our model accounts for league difficulty and player development paths to make accurate NHL projections.
+
+-What Makes Our Model Unique?
+✅ Adjusts for League Difficulty – Accounts for variations in scoring difficulty across different leagues.
+✅ Incorporates Global Data – Analyzes stats from players across all major pre-NHL leagues.
+✅ Built by Hockey Players, for Hockey Players – As UCSB hockey players, we understand player development beyond just numbers.
+
+-Project Steps
+1️⃣ Data Collection & Processing
+Extracted NHL player stats from an original dataset and filtered relevant player information.
+Scraped additional player career stats from HockeyDB for a more complete dataset.
+2️⃣ Data Cleaning & Standardization
+Removed unnecessary data and duplicates.
+Eliminated unqualified players (those with less than three NHL seasons) to ensure unbiased predictions.
+Consolidated and structured the dataset to include pre-NHL and NHL career stats.
+3️⃣ Machine Learning Model
+Built a Random Forest Regression model to predict games played, goals, assists, points, penalty minutes, and plus/minus ratings for a player’s first three NHL seasons.
+Compared Random Forest vs. Multiple Linear Regression, finding that Random Forest provides better accuracy by capturing non-linear trends and league differences.
+4️⃣ Developing an Interactive Website
+A user-friendly Flask-based web platform is in development to allow users to input player data and get NHL performance predictions.
+Features include player analysis, league difficulty comparison, and performance trends.
