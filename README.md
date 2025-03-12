@@ -44,9 +44,9 @@ Our model outperformed **Multiple Linear Regression**, as **Random Forest captur
 ### **4️. Developing an Interactive Website**
 - A **Flask-based web platform** is in development to allow users to input player data and get NHL performance predictions.
 - Features include:  
-  ✔ **Player Analysis & Projections** – View projected NHL performance.  
-  ✔ **League Difficulty Comparison** – Analyze performance trends across leagues.  
-  ✔ **Player Comparison** – Compare predictions with actual NHL players.
+  - **Player Analysis & Projections** – View projected NHL performance.  
+  - **League Difficulty Comparison** – Analyze performance trends across leagues.  
+  - **Player Comparison** – Compare predictions with actual NHL players.
 
 ### ** Contributors**
 **Team Lewandowski**  
