@@ -40,6 +40,7 @@ Built a **Random Forest Regression model** to predict:
 - **Plus/Minus (+/-)**  
 
 Our model outperformed **Multiple Linear Regression**, as **Random Forest captures non-linear trends and league differences** more effectively.
+Resulting **MAE(Mean Absolute Error) of 1.03** meaning we were able to accurately predict player NHL production by a little more than 1 point.
 
 ### **4️. Developing an Interactive Website**
 - A **Flask-based web platform** is in development to allow users to input player data and get NHL performance predictions.
