@@ -13,9 +13,9 @@ Our model accounts for **league difficulty and player development paths** to mak
 
 ## What Makes Our Model Unique?
 
-✔ **Adjusts for League Difficulty** – Accounts for variations in scoring difficulty across different leagues.  
-✔ **Incorporates Global Data** – Analyzes stats from players across **all major pre-NHL leagues**.  
-✔ **Built by Hockey Players, for Hockey Players** – As UCSB hockey players, we understand player development beyond just numbers.
+- **Adjusts for League Difficulty** – Accounts for variations in scoring difficulty across different leagues.  
+- **Incorporates Global Data** – Analyzes stats from players across **all major pre-NHL leagues**.  
+- **Built by Hockey Players, for Hockey Players** – As UCSB hockey players, we understand player development beyond just numbers.
 
 ---
 
