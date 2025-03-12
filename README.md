@@ -49,9 +49,3 @@ Resulting **MAE(Mean Absolute Error) of 1.03** meaning we were able to accuratel
   - **League Difficulty Comparison** – Analyze performance trends across leagues.  
   - **Player Comparison** – Compare predictions with actual NHL players.
 
-### ** Contributors**
-**Team Lewandowski**  
-- **Elvin Kim**  
-- **Jay Leung**  
-- **Adian Murzagaliyev**  
-- **Sou Hamura**  
